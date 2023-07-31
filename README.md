@@ -14,4 +14,8 @@ project was also a learning experience for me as this was my first hands-on expe
 
 # Table of Contents 
 
+## NNLearning.py
 
+## NNTest.png
+
+## NNTest.png
