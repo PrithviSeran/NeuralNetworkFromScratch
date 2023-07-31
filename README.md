@@ -18,6 +18,8 @@ project was also a learning experience for me as this was my first hands-on expe
 
 ## NNTest.png
 
+A custom test image made by me to test the real-world accuracy of the model (the model's output was 'shirt', which is correct). 
+
 ## fashion_mnist.model
 
 This is a saved pre-trained neural network that takes in as input 28-by-28 pixel image of clothing (shirts, pants, hats, shoes, etc), and outputs what type of clothing the inputed image is. 
